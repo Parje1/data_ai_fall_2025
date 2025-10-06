@@ -53,7 +53,7 @@ For example:
 - [x] What is the ratio of respondent's that are working Full-Time vs Part-Time vs Not Currently Employed
 - [ ] How many hours are respondent's working each week? (binned by hours)
 - [ ] What percentage are currently seeking employment?
-- [ ] etc 
+- [x] etc 
 
 The last 4 questions are self-evaluation of alumni's growth since participating in the Tech-Moms program. Find the average of each column to know it's rating out of 5 stars. 
 
@@ -75,9 +75,9 @@ Before polishing and presenting your data, you will want to validate that the re
 ### Step Six: Make it Aesthetic 
 
 - [x] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
+- [x] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
 - [x] Upload the Tech-Moms logo to the dashboard.
-- [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+- [x] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
 ### Step Seven: Ask for Feedback 
 

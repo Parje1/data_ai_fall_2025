@@ -45,7 +45,7 @@ For example:
 - [ ] What is the count and ratio of survey respondents that answered via computer vs phone?
 - [x] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
 - [ ] What is the average number of years respondents had been out of the workforce?
-- [ ] What was the average starting pay at the time of starting Tech-Moms?
+- [x] What was the average starting pay at the time of starting Tech-Moms?
 - [x] What percentage of respondents are currently employed?
 - [ ] Among those that received a raise, what is the average % increase?
 - [x] What percentage of respondent's received a promotion since starting Tech-Moms? 
@@ -83,8 +83,8 @@ Before polishing and presenting your data, you will want to validate that the re
 
 - [ ] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
 - [ ] Incorporate the feedback
-- [ ] Add your completed assignment in this discussion here: https://github.com/Tech-Moms/data_ai_fall_2025/discussions/16
-- [ ] Do a little happy dance - you're crushing it! 💃
+- [x] Add your completed assignment in this discussion here: https://github.com/Tech-Moms/data_ai_fall_2025/discussions/16
+- [x] Do a little happy dance - you're crushing it! 💃
 
 **Note:** In a future assignment we will practice our data storytelling skills by putting our visualizations and insights into a slide presentation for Share & Tell + Tech-Moms leadership. ✨ 
  

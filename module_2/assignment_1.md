@@ -47,7 +47,7 @@ For example:
 - [ ] What is the average number of years respondents had been out of the workforce?
 - [x] What was the average starting pay at the time of starting Tech-Moms?
 - [x] What percentage of respondents are currently employed?
-- [ ] Among those that received a raise, what is the average % increase?
+- [x] Among those that received a raise, what is the average % increase?
 - [x] What percentage of respondent's received a promotion since starting Tech-Moms? 
 - [x] What percentage of respondent's have taken a new position since starting Tech-Moms?
 - [x] What is the ratio of respondent's that are working Full-Time vs Part-Time vs Not Currently Employed
@@ -81,8 +81,8 @@ Before polishing and presenting your data, you will want to validate that the re
 
 ### Step Seven: Ask for Feedback 
 
-- [ ] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
-- [ ] Incorporate the feedback
+- [x] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
+- [x] Incorporate the feedback
 - [x] Add your completed assignment in this discussion here: https://github.com/Tech-Moms/data_ai_fall_2025/discussions/16
 - [x] Do a little happy dance - you're crushing it! 💃
 

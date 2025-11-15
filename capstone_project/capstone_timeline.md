@@ -4,21 +4,21 @@
 
 - [x] Confirm your project 
 - [x] Data in hand and start analysis
-- [ ] Get to know your data (create a data dictionary if needed)
-- [ ] Clean the data
-- [ ] Do exploratory analysis - ask questions of the data 
+- [x] Get to know your data (create a data dictionary if needed)
+- [x] Clean the data
+- [x] Do exploratory analysis - ask questions of the data 
 
 ## Week 2
 
-- [ ] Create v1 of Dashboard / Report / Presentation 
-- [ ] Ask for feedback from Data Mentor/Teachers 
-- [ ] Ship v1 of project to client to get feedback 
+- [x] Create v1 of Dashboard / Report / Presentation 
+- [x] Ask for feedback from Data Mentor/Teachers 
+- [x] Ship v1 of project to client to get feedback 
 
 ## Week 3  
 
-- [ ] Incorporate Feedback 
-- [ ] Create v2 of project  
-- [ ] Ask for feedback from Data Mentor/Teachers
+- [x] Incorporate Feedback 
+- [x] Create v2 of project  
+- [x] Ask for feedback from Data Mentor/Teachers
 - [ ] Ship v2 of project to client 
 
 ## Week 4 

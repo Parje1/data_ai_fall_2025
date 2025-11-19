@@ -15,7 +15,7 @@ The capstone project for our data analytics course offers a practical, hands-on 
 - [x]  **Presentation:**  
    After completing the analysis, students will set up a call with the business or non-profit to present their findings. The presentation should include a clear explanation of the analysis performed, key insights, and any visualizations created (such as dashboards or charts).
 
-- [ ]  **Feedback and Refinement:**  
+- [x]  **Feedback and Refinement:**  
    Following the presentation, students will gather feedback from the organization. If any adjustments or refinements are needed, students will have a short period to make these changes and deliver the final product.
 
 ## Project Goals

@@ -19,11 +19,11 @@
 - [x] Incorporate Feedback 
 - [x] Create v2 of project  
 - [x] Ask for feedback from Data Mentor/Teachers
-- [ ] Ship v2 of project to client 
+- [x] Ship v2 of project to client 
 
 ## Week 4 
 
-- [ ] Refine Dashboard / Report / Presentation 
+- [x] Refine Dashboard / Report / Presentation 
 - [ ] Prepare for Graduation 
 * Show us what you have built (dashboard/analysis etc) --how you built it, why you made the choices you did, etc.
 * Tell us about the biggest challenges you faced during the program and how you got through them.
